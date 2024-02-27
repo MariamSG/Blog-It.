@@ -906,7 +906,7 @@ Nav Menu style
 .about-banner,
 .blog-banner,
 .home{
-    background-size: cover;
+    background-size: auto;
     position: relative;
 }
 .home{
